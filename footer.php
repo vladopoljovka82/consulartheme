@@ -25,7 +25,7 @@
 			<section class="f-wrap">
 				<div class="three-col f3-1">
 					<h3 class="sec-naslov">O nama</h3>
-					<p>Slovan Progres Selenča je kompanija osnovana 1980. godine kao građevinsko zanatska zadruga od strane šest osnivača . U početku je bilo uposleno svega petnaest zaposlenih. Danas kompanija zapošljava oko 250 ljudi. Svoje aktivnosti Slovan Progres ispoljava kroz više delatnosti: građevinarstvo, kao prvu i osnovnu granu u okviru koje vrši izvođenje građevinskih radova, proizvodnju i distribuciju betona i betonske galanterije i proizvodnju aluminijske i PVC stolarije, trgovinu, ugostiteljstvo i poljoprivredu.</p>
+					<p>Slovan Progres je kompanija osnovana 1980. godine kao građevinsko zanatska zadruga od strane šest osnivača . U početku je bilo uposleno svega petnaest zaposlenih. Danas kompanija zapošljava oko 250 ljudi. Svoje aktivnosti Slovan Progres ispoljava kroz više delatnosti: građevinarstvo, kao prvu i osnovnu granu u okviru koje vrši izvođenje građevinskih radova, proizvodnju i distribuciju betona i betonske galanterije i proizvodnju aluminijske i PVC stolarije, trgovinu, ugostiteljstvo i poljoprivredu.</p>
 
 				</div>
 
